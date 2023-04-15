@@ -17,7 +17,7 @@ export default siteConfig({
   description: 'I explain with words and code. ',
 
   // social usernames (optional)
-  twitter: '',
+  twitter: 'ceo_joshi',
   github: 'atharva20-coder',
   linkedin: 'atharva-joshi-2520/',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
